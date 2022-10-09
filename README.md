@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi therem I'm Trần Hoàng Sơn
+- 🔭 I’m currently working on Front-End Developer
+- 🌱 I’m currently learning Back-End specifically Nestjs
+- 📫 You can reach me on: 
+  + [Facebook](https://www.facebook.com/HoangSon2402/)
+  + [Linkedin](https://www.linkedin.com/in/s%C6%A1n-tr%E1%BA%A7n-69279a223/)
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=master2k0&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 **Master2k0/Master2k0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
