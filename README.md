@@ -84,11 +84,9 @@
   </li> 
                                                      
   <li> 
-      <h4 style="">Recruit website</h4>
+      <h4 style="">Kingy Ecommerce</h4>
     <ul>
-      <li><a href="https://www.tuyendungvn.com/">Main</a></li>
-      <li><a href="https://employer.tuyendungvn.com/">Employer</a></li>
-      <li><a href="https://employer.tuyendungvn.com/">Admin</a></li>                                           
+      <li><a href="https://www.kingify.com/">Main</a></li>                                        
     </ul>
   </li>                       
 </ul>
