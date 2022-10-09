@@ -94,7 +94,7 @@
 </ul>
 
 ---
-<h3>Somethings about me me that github can analyze: </h3>
+<h3>Somethings about me that github can analyze: </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master2k0" alt="master2k0" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=master2k0&show_icons=true&locale=en&layout=compact" alt="master2k0" /></p>
