@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on Front-End Developer
 - 🌱 I’m currently learning Back-End specifically Nestjs
 - 📫 You can reach me on: 
+  + [Phone](tel:0365560383)
+  <a href="tel:0123456789" style="color:red">0123.456.789</a>
   + [Facebook](https://www.facebook.com/HoangSon2402/)
   + [Linkedin](https://www.linkedin.com/in/s%C6%A1n-tr%E1%BA%A7n-69279a223/)
  
