@@ -66,10 +66,24 @@
 </ul>
 
 ---
+<h3 align="left">Course Proeject:</h3>
+<ul>
+  <li>
+     <h4> <a href="https://github.com/Master2k0/search_engine">Search Engine</a></h4>
+     <p>Description: Build an indexing tool for the list of available documents, then search for related documents with the keywords the user entered </p> 
+  </li>
+  <li>
+     <h4> <a href="https://github.com/PhamTruongUit/IDCard_OCR">IDCard Identity</a></h4>
+     <p>Description: Build a tool to identify id card information based on user-supplied images</p> 
+  </li> 
+</ul>
+
+---
 <h3 align="left">Projects Deploy:</h3>
 <ul> 
   <li> 
       <h4 style="">Recruit website</h4>
+      <p>Description: The website helps job seekers and employers connect</p> 
     <ul>
       <li><a href="https://www.tuyendungvn.com/">Main</a></li>
       <li><a href="https://employer.tuyendungvn.com/">Employer</a></li>
@@ -78,6 +92,7 @@
                                                      
   <li> 
       <h4 style="">Dakoli Ecommerce</h4>
+      <p>Description: An e-commerce site that offers products at wholesale prices to people all over the world</p> 
     <ul>
       <li><a href="https://www.dakoli.com/">Main</a></li>
       <li><a href="https://sellercentral.dakoli.com/">Seller</a></li>
@@ -87,6 +102,7 @@
                                                      
   <li> 
       <h4 style="">Kingify Ecommerce</h4>
+      <p>Description: E-commerce site to help design and print clothes at wholesale prices for retail stores</p> 
     <ul>
       <li><a href="https://www.kingify.com/">Main</a></li>                                        
     </ul>
