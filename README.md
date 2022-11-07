@@ -66,7 +66,7 @@
 </ul>
 
 ---
-<h3 align="left">Course Proeject:</h3>
+<h3 align="left">Course Project:</h3>
 <ul>
   <li>
      <h4> <a href="https://github.com/Master2k0/search_engine">Search Engine</a></h4>
